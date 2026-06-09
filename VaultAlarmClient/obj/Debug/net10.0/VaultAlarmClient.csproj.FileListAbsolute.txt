@@ -1,0 +1,14 @@
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\bin\Debug\net10.0\VaultAlarmClient.exe
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\bin\Debug\net10.0\VaultAlarmClient.deps.json
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\bin\Debug\net10.0\VaultAlarmClient.runtimeconfig.json
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\bin\Debug\net10.0\VaultAlarmClient.dll
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\bin\Debug\net10.0\VaultAlarmClient.pdb
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.AssemblyInfoInputs.cache
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.AssemblyInfo.cs
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.csproj.CoreCompileInputs.cache
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.dll
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\refint\VaultAlarmClient.dll
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.pdb
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.genruntimeconfig.cache
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\ref\VaultAlarmClient.dll
