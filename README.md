@@ -55,8 +55,8 @@ Obsługa błędów
 Symulacja działania w Wokwi
 Format danych JSON
 {
-  "temperature": 24.00,
-  "distanceCm": 30.00
+  "temperature": xx.xx,
+  "distanceCm": xx.xx
 }
 Progi alarmowe
 Temperatura
