@@ -12,3 +12,4 @@ C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnik
 C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.pdb
 C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.genruntimeconfig.cache
 C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\ref\VaultAlarmClient.dll
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\VaultAlarmClient\obj\Debug\net10.0\VaultAlarmClient.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VaultAlarmClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+330a56c4d13c962f44fa48c23029941f16a76d7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VaultAlarmClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VaultAlarmClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,7 +4,7 @@ using System.Text;
 string host = "127.0.0.1";
 int serialPort = 4000;
 
-string lastLine = "{\"temperature\":24.00,\"distanceCm\":30.00}";
+string lastLine = "{\"temperature\":3.00,\"distanceCm\":5.00}";
 // Domyślny payload testowy.
 // Gdy działa połączenie Wokwi -> Bridge, ta wartość jest nadpisywana danymi z Serial.
 DateTime lastUpdateUtc = DateTime.MinValue;

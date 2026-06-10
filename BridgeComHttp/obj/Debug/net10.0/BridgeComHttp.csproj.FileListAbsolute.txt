@@ -26,3 +26,4 @@ C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnik
 C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\BridgeComHttp\obj\Debug\net10.0\BridgeComHttp.pdb
 C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\BridgeComHttp\obj\Debug\net10.0\BridgeComHttp.genruntimeconfig.cache
 C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\BridgeComHttp\obj\Debug\net10.0\ref\BridgeComHttp.dll
+C:\Users\ook66\Documents\PlatformIO\Projects\ProjektNaZaliczenieFranciszekBudnikCyberV2\BridgeComHttp\obj\Debug\net10.0\BridgeComHttp.sourcelink.json
